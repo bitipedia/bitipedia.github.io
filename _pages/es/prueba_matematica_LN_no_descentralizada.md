@@ -58,7 +58,7 @@ Por el contrario, una red con concentradores centralizados puede técnicamente l
 
 Pero no nos dejemos atrapar por los juegos de palabras. El siguiente diagrama [2] debe aclarar las cosas:
 
- 
+![cómo LN realmente parecerá, y como las personas piensan que LN debería parecer (¡no es posible!)](/images/es/prueba_matematica_LN_no_descentralizada/image3.png)
 
 ## PARTE II: UNA EXPLICACIÓN PARA “LEGOS”: POR QUE LA LIGHTNING NETWORK NO CONSEGUIRÁ ESCALAR
 
@@ -72,7 +72,7 @@ No tiene sentido crear un canal de pago con el único propósito de enviar una t
 
 La idea es que se supone que eres capaz de enrutar su pago a cualquier destino a través de una serie de conexiones. Desde el punto de vista de un usuario, la ruta potencial a cualquier persona se ve como una estructura de árbol:
 
- 
+![estructura de árbol](/images/es/prueba_matematica_LN_no_descentralizada/image4.png)
 
 ### Comienza como un problema básico de matemáticas
 
@@ -168,13 +168,13 @@ Sea n el número de hojas, definido como C^H. Por ejemplo, 10 canales abiertos y
 
 La probabilidad P de no elegir un miembro de un conjunto |N| con cardinalidad n por muestreo n veces, con reemplazo es:
 
- 
+![ecuación: elegir un miembro de un conjunto |N| con cardinalidad n por muestreo n veces](/images/es/prueba_matematica_LN_no_descentralizada/image5.png)
 
 (En nuestro caso, alcanzar un destino deseado que coincida con una hoja.)
 
 Podemos generalizar esto con la forma límite:
 
- 
+![ecuación: generalización con forma de limite](/images/es/prueba_matematica_LN_no_descentralizada/image6.png)
 
 Dado que 1 / e = 0,3678... entonces la probabilidad de elegir correctamente al menos una vez es (1- (1 / e)) = 63,21...%
 
@@ -182,23 +182,23 @@ Una tasa de acceso a cualquier par de sólo 63.21% es demasiado bajo para ser co
 
 El uso de un número diferente de ensayos se puede expresar como:
 
- 
+![ecuación: uso de un número diferente de ensayos](/images/es/prueba_matematica_LN_no_descentralizada/image7.png)
 
 Por ejemplo:
 
- 
+![ecuación: ejemplo de uso de un número diferente de ensayos](/images/es/prueba_matematica_LN_no_descentralizada/image8.png)
 
 Tomando varios exponentes de e, podemos calcular las probabilidades correspondientes:
 
- 
+![tabla: probabilidades usando varios exponentes de e](/images/es/prueba_matematica_LN_no_descentralizada/image9.png)
 
 Utilizando un valor de 1.000.000 de usuarios y la forma límite, derivamos la fórmula:
 
- 
+![fórmula: 1.000.000 de usuarios e forma limite](/images/es/prueba_matematica_LN_no_descentralizada/image10.png)
 
 Utilizando esta fórmula, podemos calcular algunos valores iniciales que alcancen al menos el nivel de probabilidad del 80%; sin embargo, esto no está tomando en cuenta otros factores aún no discutidos:
 
- 
+![tabla: valores iniciales que alcancen al menos el nivel de probabilidad del 80%](/images/es/prueba_matematica_LN_no_descentralizada/image11.png)
 
 ### 3. Canales y saltos necesarios, con una restricción monetaria básica
 
@@ -216,17 +216,17 @@ No disponemos de un modelo detallado de cuáles y cuántos usuarios están receb
 
 El ciclo típico de consumo consiste en recibir ingresos, gastarlos y luego repetir el proceso. Podemos generalizar este comportamiento como una onda de diente de sierra inversa:
 
- 
+![ecuación: onda de diente de sierra inversa](/images/es/prueba_matematica_LN_no_descentralizada/image12.png)
 
 Visualmente, aparece como:
 
- 
+![gráfica: onda de diente de sierra inversa](/images/es/prueba_matematica_LN_no_descentralizada/image13.png)
 
 Los pagos salariales se representan por los picos, y los ingresos se gastan gradualmente hasta el próximo pago.
 
 La integración de la función da la mitad del valor del período, como se esperaba:
 
- 
+![ecuación: integral de la onda de diente de sierra inversa](/images/es/prueba_matematica_LN_no_descentralizada/image14.png)
 
 Esto también es evidente visualmente, porque las ondas forman triángulos rectos recortando la mitad del área.
 
@@ -234,11 +234,11 @@ La implicación es que aproximadamente la mitad de los canales que se utilizarí
 
 Nuestra fórmula de probabilidad se convierte en:
 
- 
+![fórmula: número de canales en cada salto, duplicado](/images/es/prueba_matematica_LN_no_descentralizada/image15.png)
 
 Y nuestra tabla de resultados se convierte en:
 
- 
+![tabla: número de canales en cada salto, duplicado](/images/es/prueba_matematica_LN_no_descentralizada/image16.png)
 
 **También hay una supuesto generoso muy grande que estamos haciendo**, que es que todos los usuarios forman una parte útil del conjunto de participantes de enrutamiento para todos los demás usuarios. En realidad, una distribución muy desigual de riqueza probablemente pondría restricciones adicionales y significativas al sistema.
 
@@ -278,7 +278,7 @@ Así, r = VH / U. Y como V / U = v, r = Hv.
 
 Por ejemplo, si v = $ 1000, el gráfico aparece como:
 
- 
+![gráfica: v = $ 1000](/images/es/prueba_matematica_LN_no_descentralizada/image17.png)
 
 Introduzcamos el concepto de dólar-hora para medir la capacidad de enrutamiento.
 
@@ -296,11 +296,11 @@ Q = 1 – ((4) * (3)) / 168) = 0,92
 
 Nuestra fórmula de probabilidad es ahora:
 
- 
+![fórmula: ahora](/images/es/prueba_matematica_LN_no_descentralizada/image18.png)
 
-Suponiendo D = 168, y el tiempo de enrutamiento d = 4 horas, llegamos a las siguientes probabilidades:
+Suponiendo que D = 168, y el tiempo de enrutamiento d = 4 horas, llegamos a las siguientes probabilidades:
 
- 
+![tabla: D = 168, d = 4](/images/es/prueba_matematica_LN_no_descentralizada/image19.png)
 
 ### 6. Determinación de limitaciones de transacciones basadas en una distribución de Pareto
 
@@ -310,25 +310,25 @@ Asumimos que la mayoría de los gastos de consumo y de negocios siguen una distr
 
 La función de densidad de probabilidad de Pareto se expresa como:
 
- 
+![funcíon: probabilidad de Pareto](/images/es/prueba_matematica_LN_no_descentralizada/image20.png)
 
 Para la curva de Pareto de tipo 1 más simple, esto se simplifica a:
 
- 
+![funcíon: probabilidad de Pareto, tipo 1, más simple](/images/es/prueba_matematica_LN_no_descentralizada/image21.png)
 
- 
+![gráfica: probabilidad de Pareto, tipo 1, más simple](/images/es/prueba_matematica_LN_no_descentralizada/image22.png)
 
 La distribución no cambia con la aplicación de constantes, pero podemos visualizar mejor el modelo con algunos valores del mundo real multiplicando los valores de y por 1000 – de manera que las cantidades en dólares para los artículos costosos se vuelven significativas – y integrar sobre un conjunto típico de valores x (el número de transacciones a cada valor en dólares), digamos 50.
 
- 
+![ecuación: integral sobre un conjunto típico de valores x, digamos 50](/images/es/prueba_matematica_LN_no_descentralizada/image23.png)
 
 La suma total de transacciones = $ 980. Usando un valor del 10% de $ 98, podemos resolver la ecuación: 98 = 1000 / x², para obtener 3,194 transacciones.
 
 A continuación, vamos a integrar sobre el conjunto más pequeño de transacciones para obtener el valor de la suma de las transacciones que tienen cantidades inferiores a nuestro valor mínimo de $ 98:
 
- 
+![ecuación: integral sobre el conjunto más pequeño de transacciones](/images/es/prueba_matematica_LN_no_descentralizada/image24.png)
 
- 
+![gráfica: integral sobre el conjunto más pequeño de transacciones](/images/es/prueba_matematica_LN_no_descentralizada/image25.png)
 
 Dado que 293.48 / 980 = .299, podemos decir que sólo el 29.9% de toda la actividad económica deseada sería posible si 10 canales fueran usados.
 
