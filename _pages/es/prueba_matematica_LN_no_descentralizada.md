@@ -68,7 +68,7 @@ Primero, tienes que entender que la red Lightning Network no es como otras redes
 
 Para enviar o recibir bitcoins, necesitas o bien un **canal de pago** con ese usuario específico, o bien una serie conectada de canales de pago (una **“ruta”**).
 
-No tiene sentido crear un canal de pago con el único propósito de enviar una transacción **fuera de cadena**, ya que requiere una transacción _en cadena_ para abrir el canal (y otra transacción para cerrarlo). También podrías al contrario enviar una transacción _en cadena_; no necesitas la red LN.
+No tiene sentido crear un canal de pago con el único propósito de enviar una transacción _fuera de cadena_, ya que requiere una transacción _en cadena_ para abrir el canal (y otra transacción para cerrarlo). También podrías al contrario enviar una transacción _en cadena_; no necesitas la red LN.
 
 La idea es que se supone que eres capaz de enrutar su pago a cualquier destino a través de una serie de conexiones. Desde el punto de vista de un usuario, la ruta potencial a cualquier persona se ve como una estructura de árbol:
 
@@ -338,7 +338,7 @@ Estoy preparado para críticos puntillosos. Quisiera recomendarte a hacer tu pro
 
 Recuerde, Bitcoin debe ser descentralizado. Tengas cuidado con la racionalización que dice que “la centralización sería algo soportable, siempre y cuando la capa base se mantiene descentralizada”. Eso sería una trampa insidiosa que permitiría obligar a los usuarios a salir de la capa base y entrar en sistemas centralizados. Nunca debemos permitir eso.
 
-Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pueden no funcionar? No, en absoluto. Bitcoin fue diseñado para escalar en cadena con incrementos de bloques simples. Puede hacerlo y conseguirá hacerlo – si lo permitimos.
+Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pueden no funcionar? No, en absoluto. Bitcoin fue diseñado para escalar _en cadena_ con incrementos de bloques simples. Puede hacerlo y conseguirá hacerlo – si lo permitimos.
 
 #### Notas
 
@@ -348,5 +348,5 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 3.  Hay consideraciones de probabilidad adicionales como se discute en la parte III.
 
-4.  Técnicamente un gráfico complejo, no una estructura de árbol, aunque el árbol es una construcción mental apropiada.
+4.  Técnicamente un gráfico complejo, no una estructura de árbol, aunque el árbol sea una construcción mental apropiada.
 
