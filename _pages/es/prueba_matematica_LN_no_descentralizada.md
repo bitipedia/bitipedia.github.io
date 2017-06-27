@@ -348,5 +348,5 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 3.  Hay consideraciones de probabilidad adicionales como se discute en la parte III.
 
-4.  Técnicamente un gráfico complejo, no una estructura de árbol, aunque el árbol sea una construcción mental apropiada.
+4.  Técnicamente un grafo complejo, no una estructura de árbol, aunque un árbol pueda servir de construcción mental apropiada.
 
