@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: testing_001.html
+permalink: ES/testing_001.html
 
 ---
 
