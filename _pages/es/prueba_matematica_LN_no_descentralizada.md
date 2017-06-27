@@ -16,7 +16,7 @@ Muchas personas en la comunidad de Bitcoin han supuesto erróneamente, o fueron 
 
 Sin embargo, eso es imposible. En efecto, demostraremos aqui que – aun utilizando un conjunto de supuestos bastante generosos – eso es imposible en el sentido matemático.
 
-Este documento será divido en secciones. La **primera parte** dará una breve visión general de la red LN. La **segunda parte** explicará en términos sencillos por qué la red LN no conseguirá proporcionar escalabilidad descentralizada. Y la **tercera parte** dará una prueba matemática más rigurosa.
+Este documento será divido en secciones. La **primera parte** dará una breve visión general de la red LN. La **segunda parte** explicará en términos sencillos por qué la red LN no conseguirá proporcionar escalabilidad descentralizada. Y la **tercera parte** dará una prueba matemática más rigorosa.
 
 ## PARTE I: VISIÓN GENERAL DE LA RED “LIGHTNING NETWORK” (LN)
 
