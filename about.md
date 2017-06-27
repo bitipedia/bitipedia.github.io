@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-EN: a multilingual wiki republishing important articles about Bitcoin
+English (en) : a multilingual wiki republishing important articles about Bitcoin
 
-ES: un wiki multilingüe para republicar artigos importantes sobre Bitcoin
+Español (es) : un wiki multilingüe para republicar artigos importantes sobre Bitcoin
 
