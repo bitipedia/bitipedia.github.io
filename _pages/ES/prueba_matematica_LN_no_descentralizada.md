@@ -2,7 +2,7 @@
 
 layout: page
 title: Prueba matemática que la red Lightning Network no conseguirá ser una solución descentralizada de escalabilidad para Bitcoin
-permalink: ES/prueba_matematica_LN_no_descentralizada.html
+permalink: /ES/prueba_matematica_LN_no_descentralizada/
 
 ---
 
