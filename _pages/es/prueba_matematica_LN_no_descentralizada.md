@@ -34,7 +34,7 @@ La red Lightning Network (LN) es un protocolo que permite una serie de **canales
 
 “Bidireccional” significa simplemente “en dos sentidos”, donde Alice y Bob podrían abrir un canal privado y enviar bitcoins de un lado para otro (_fuera de la cadena_ de bloques):
 
-![canal de pago bidireccional entre Alice y Bob]({{ site.url }}/images/es/prueba_matematica_LN_no_descentralizada/image1.png)
+![canal de pago bidireccional entre Alice y Bob](/images/es/prueba_matematica_LN_no_descentralizada/image1.png)
 
 Para abrir el canal, una o ambas partes tienen que depositar bitcoins en una dirección especial de Bitcoin. [1] Después de eso, pueden hacer tantas transacciones como quieran dentro del canal, hasta que cualquiera de las partes decida cerrarlo, liquidándolo (pagando los saldos finales apropiados) en la cadena de bloques principal de Bitcoin.
 
@@ -42,7 +42,7 @@ Para abrir el canal, una o ambas partes tienen que depositar bitcoins en una dir
 
 Dando un paso más allá, si Alice tiene un canal con Bob, y Bob también tiene un canal con Carol, Alice podría indirectamente enviar dinero a Carol: primero Bob pagaría a Carol, y luego Alice le reembolsaría a Bob.
 
- 
+![canales de pago bidireccionales entre Alice y Bob y Carol](/images/es/prueba_matematica_LN_no_descentralizada/image2.png)
 
 ### La red prevista
 
