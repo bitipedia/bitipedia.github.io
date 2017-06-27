@@ -34,7 +34,7 @@ La red Lightning Network (LN) es un protocolo que permite una serie de **canales
 
 “Bidireccional” significa simplemente “en dos sentidos”, donde Alice y Bob podrían abrir un canal privado y enviar bitcoins de un lado para otro (_fuera de la cadena_ de bloques):
 
- 
+![canal de pago bidireccional entre Alice y Bob]({{ site.url }}/images/es/prueba_matematica_LN_no_descentralizada/image1.png)
 
 Para abrir el canal, una o ambas partes tienen que depositar bitcoins en una dirección especial de Bitcoin. [1] Después de eso, pueden hacer tantas transacciones como quieran dentro del canal, hasta que cualquiera de las partes decida cerrarlo, liquidándolo (pagando los saldos finales apropiados) en la cadena de bloques principal de Bitcoin.
 
@@ -336,7 +336,7 @@ Dado que 293.48 / 980 = .299, podemos decir que sólo el 29.9% de toda la activi
 
 Estoy preparado para críticos puntillosos. Quisiera recomendarte a hacer tu propio pensamiento crítico. No olvides los supuestos generosos que hemos hecho para ignorar la disparidad de riqueza.
 
-Recuerde, Bitcoin debe ser descentralizado. Tengas cuidado con la racionalización de la “Centralización está bien, siempre y cuando la capa base se mantiene descentralizada”. Eso sería una trampa insidiosa que permitiría obligar a los usuarios a salir de la capa base y entrar en sistemas centralizados. Nunca debemos permitir eso.
+Recuerde, Bitcoin debe ser descentralizado. Tengas cuidado con la racionalización que dice que “la centralización sería algo soportable, siempre y cuando la capa base se mantiene descentralizada”. Eso sería una trampa insidiosa que permitiría obligar a los usuarios a salir de la capa base y entrar en sistemas centralizados. Nunca debemos permitir eso.
 
 Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pueden no funcionar? No, en absoluto. Bitcoin fue diseñado para escalar en cadena con incrementos de bloques simples. Puede hacerlo y conseguirá hacerlo – si lo permitimos.
 
