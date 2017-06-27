@@ -166,9 +166,9 @@ El acontecimiento de esta posibilidad reduciría el número de pares encontrados
 
 Sea n el número de hojas, definido como C^H. Por ejemplo, 10 canales abiertos y 6 saltos son 10^6 = 1.000.000.
 
-La probabilidad P de no elegir un miembro de un conjunto |N| con cardinalidad n por muestreo n veces, con reemplazo es:
+La probabilidad P de no elegir un miembro de un conjunto \|N\| con cardinalidad n por muestreo n veces, con reemplazo es:
 
-![ecuación: elegir un miembro de un conjunto |N| con cardinalidad n por muestreo n veces](/images/es/prueba_matematica_LN_no_descentralizada/image5.png)
+![ecuación: elegir un miembro de un conjunto N con cardinalidad n por muestreo n veces](/images/es/prueba_matematica_LN_no_descentralizada/image5.png)
 
 (En nuestro caso, alcanzar un destino deseado que coincida con una hoja.)
 
