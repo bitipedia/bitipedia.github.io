@@ -70,7 +70,7 @@ Para enviar o recibir bitcoins, necesitas o bien un **canal de pago** con ese us
 
 No tiene sentido crear un canal de pago con el único propósito de enviar una transacción _fuera de cadena_, ya que requiere una transacción _en cadena_ para abrir el canal (y otra transacción para cerrarlo). También podrías al contrario enviar una transacción _en cadena_; no necesitas la red LN.
 
-La idea es que se supone que eres capaz de enrutar su pago a cualquier destino a través de una serie de conexiones. Desde el punto de vista de un usuario, la ruta potencial a cualquier persona se ve como una estructura de árbol:
+La idea es que se supone que eres capaz de enrutar tu pago a cualquier destino a través de una serie de conexiones. Desde el punto de vista de un usuario, la ruta potencial a cualquier persona se ve como una estructura de árbol:
 
 ![estructura de árbol](/images/es/prueba_matematica_LN_no_descentralizada/image4.png)
 
@@ -86,7 +86,7 @@ Puesto que tienes que saltar de rama a rama 6 veces para alcanzar la hoja, podem
 
 Entonces, ¿cuál es el problema?
 
-### Su dinero no puede estar en dos lugares al mismo tiempo
+### Tu dinero no puede estar en dos lugares al mismo tiempo
 
 Si asumimos que necesitamos 10 canales de pago para alcanzar toda la red en 6 saltos, eso significa que tendrías que dividir tus bitcoins en 10 porciones.
 
