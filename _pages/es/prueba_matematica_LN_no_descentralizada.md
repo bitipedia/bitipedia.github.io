@@ -344,7 +344,7 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 #### Notas
 
-1.  No es un nuevo tipo de dirección. Simplemente, una dirección multi-firma para los propósitos del canal.
+1.  No es un nuevo tipo de dirección. Simplemente, es una dirección multi-firma para los propósitos del canal.
 
 2.  Originalmente publicado por Carl S. Sterner en 'Resilience and Decentralization'.
 
@@ -356,7 +356,7 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 Artigo original en inglés: [Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution](https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800) - por [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup)
 
-Hilo en [r/btc](https://www.reddit.com/r/btc) sobre el artigo original: [Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball)](https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/) (posted by [u/BitAlien](https://www.reddit.com/user/BitAlien))
+Hilo en [r/btc](https://www.reddit.com/r/btc) sobre el artigo original: [Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball)](https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/) - enviado por [u/BitAlien](https://www.reddit.com/user/BitAlien)
 
 Traducción del inglés al español por: [u/bitipedia](https://www.reddit.com/user/bitipedia)
 
