@@ -354,9 +354,9 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 #### Source
 
-Original article in English by [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup): https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+Original article in English by [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup): [Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution](https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800)
 
-Reddit r/btc thread about original article: https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/
+Reddit r/btc thread about original article: [Game Over Blockstream: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution (by Jonald Fyookball)](https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/) (posted by u/BitAlien)
 
 English-to-Spanish translation by: [u/bitipedia](https://www.reddit.com/user/bitipedia)
 
