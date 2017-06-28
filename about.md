@@ -4,7 +4,7 @@ title: About
 permalink: /en/about/
 ---
 
-### A multilingual wiki for translating important articles about Bitcoin - focusing on _on-chain_ scaling
+### A multilingual wiki for translating important articles about Bitcoin _on-chain_ scaling
 
 There are many articles on places like http://reddit.com/r/btc covering important issues in Bitcoin scaling - but it can be difficult for people to get an overview of the discussion by reading a bunch of posts and threads.
 
