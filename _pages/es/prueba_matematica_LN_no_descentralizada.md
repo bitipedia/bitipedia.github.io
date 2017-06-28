@@ -304,7 +304,7 @@ Suponiendo que D = 168, y el tiempo de enrutamiento d = 4 horas, llegamos a las 
 
 ![tabla: D = 168, d = 4](/images/es/prueba_matematica_LN_no_descentralizada/image19.png)
 
-### 6. Determinación de limitaciones de transacciones basadas en una distribución de Pareto
+### 5. Determinación de limitaciones de transacciones basadas en una distribución de Pareto
 
 Casi no parece necesario probar que si los fondos necesitan ser divididos en pequeños baldes, habría un enorme efecto negativo en la usabilidad. Sin embargo, para completar, incluimos esta sección.
 
