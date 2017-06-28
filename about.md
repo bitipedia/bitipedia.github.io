@@ -14,7 +14,7 @@ This site [bitipedia.github.io](http://bitipedia.github.io) is intended to provi
 
 ### New contributors are welcome! 
 
-If you can help translate or proofread articles about Bitcoin and _on-chain_ scaling, then you get involved to help spread the word.
+If you can help translate or proofread articles about Bitcoin and _on-chain_ scaling, then you can get involved to help spread the word.
 
 ### There's different ways to get involved!
 
