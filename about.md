@@ -28,6 +28,6 @@ Right now there's a few ways you can contribute - and we can always add more in 
 
 - You can post an Issue on the GitHub repo for this site, here: https://github.com/bitipedia/bitipedia.github.io/issues
 
-This is a new, evolving effort.
+This is a new effort and it could evolve depending on people's interests.
 
-Ideas and suggestions are welcome from anyone who wants to help inform the international audience about _on-chain_ Bitcoin scaling.
+Your ideas and suggestions are welcome!
