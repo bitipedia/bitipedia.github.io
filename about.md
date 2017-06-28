@@ -14,19 +14,19 @@ This site http://bitipedia.github.io is intended to help provide a multilingual 
 
 ### New contributors are welcome! 
 
-You can help spread the word about Bitcoin _on-chain_ scaling.
+If you can help translate or proofread articles about Bitcoin and _on-chain_ scaling, then you get involved to help spread the word about Bitcoin _on-chain_ scaling.
 
-If you can help translate or proofread articles about Bitcoin and _on-chain_ scaling, then 
+### There's different ways to get involved!
 
-### It's easy to get involved!
-
-Right now there's a few ways you can contribute - and we can always add more in the future, depending on people's preferences.
+Right now there's a few ways you can get involved - and we can always add more in the future, depending on people's preferences.
 
 - You can send a private message to u/bitipedia on Reddit
 
 - You can set up an email account on tutanota.de, and send an (encrypted) email message to bitipedia@tutanota.de 
 
 - You can post an Issue on the GitHub repo for this site, here: https://github.com/bitipedia/bitipedia.github.io/issues
+
+Be sure to mention something you'd be interested in doing - eg, translating a particular article, improving an existing translation, or any other iedas you might to help inform people about _on-chain_ Bitcoin scaling.
 
 This is a new effort and it could evolve depending on people's interests.
 
