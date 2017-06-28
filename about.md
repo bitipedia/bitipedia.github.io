@@ -4,22 +4,30 @@ title: About
 permalink: /en/about/
 ---
 
+### A multilingual wiki for translating important articles about Bitcoin - focusing on _on-chain_ scaling
+
 There are many articles on places like http://reddit.com/r/btc covering important issues in Bitcoin scaling - but it can be difficult for people to get an overview of the discussion by reading a bunch of posts and threads.
 
 Also, many important articles about Bitcoin are published in just one language - and people who don't speak that language might have a hard time getting involved in the dicussion. 
 
-This site http://bitipedia.github.io is intended to help provide a multilingual platform for translating important articles about Bitcoin - focusing on _on-chain_ scaling.
+This site http://bitipedia.github.io is intended to help provide a multilingual platform for translating important articles about Bitcoin - with a special focus on _on-chain_ scaling.
 
-### Contributing translators are welcome! 
+### New contributors are welcome! 
 
-Let's help spread the word about the important issues facing Bitcoin - in particular, _on-chain_ scaling.
+You can help spread the word about Bitcoin _on-chain_ scaling.
 
-We welcome translators and proofreaders who have a good understanding of Bitcoin, and who can either provide new translations (or proofread and improve existing translations) of important articles on Bitcoin.
+If you can help translate or proofread articles about Bitcoin and _on-chain_ scaling, then 
 
 ### It's easy to get involved!
 
-To contribute, you can send a private message to u/bitipedia on Reddit, or (for more security) - or you can set up an email account on tutanota.de, and send a (priavate) email message to bitipedia@tutanota.de - or you can simply post an issue on the GitHub repo for this site, here: https://github.com/bitipedia/bitipedia.github.io/issues
+Right now there's a few ways you can contribute - and we can always add more in the future, depending on people's preferences.
 
-Large and small contributions are welcome. For example, you can translate an entire original article yourself - or you can proofread and improve an existing article already published here.
+- You can send a private message to u/bitipedia on Reddit
 
-This is a new, evolving effort, and input is welcome from everyone who wants to help Bitcoin scale _on-chain_.
+- You can set up an email account on tutanota.de, and send an (encrypted) email message to bitipedia@tutanota.de 
+
+- You can post an Issue on the GitHub repo for this site, here: https://github.com/bitipedia/bitipedia.github.io/issues
+
+This is a new, evolving effort.
+
+Ideas and suggestions are welcome from anyone who wants to help inform the international audience about _on-chain_ Bitcoin scaling.
