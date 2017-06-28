@@ -6,6 +6,8 @@ permalink: /es/prueba_matematica_LN_no_descentralizada/
 
 ---
 
+#### Author: [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup)
+
 ¿Has oído hablar de la red [Lightning Network para Bitcoin](https://lightning.network/lightning-network-paper.pdf)? Es una propuesta que afirma que:
 
 > _“Utilizando una red de estos canales de micropago, Bitcoin puede escalar a billones de transacciones por día.”_
@@ -350,3 +352,12 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 4.  Técnicamente un grafo complejo, no una estructura de árbol, aunque un árbol pueda servir de construcción mental apropiada.
 
+#### Source
+
+Original article in English by [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup): https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+
+Reddit r/btc thread about original article: https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/
+
+English-to-Spanish translation to Spanish by: [u/bitipedia](https://www.reddit.com/user/bitipedia)
+
+Suggestions and improvements are [welcome](https://bitipedia.github.io/en/about/) - especially from people who are native Spanish speakers!
