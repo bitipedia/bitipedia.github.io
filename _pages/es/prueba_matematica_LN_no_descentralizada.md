@@ -352,7 +352,7 @@ Entonces, ¿el Bitcoin está en apuros porque las soluciones de segunda capa pue
 
 4.  Técnicamente un grafo complejo, no una estructura de árbol, aunque un árbol pueda servir de construcción mental apropiada.
 
-#### Source
+#### Fuente
 
 Artigo original en inglés: [Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution](https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800) - por [Jonald Fyookball](https://medium.com/@jonaldfyookball?source=post_header_lockup)
 
