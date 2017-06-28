@@ -358,6 +358,6 @@ Original article in English by [Jonald Fyookball](https://medium.com/@jonaldfyoo
 
 Reddit r/btc thread about original article: https://np.reddit.com/r/btc/comments/6jqrub/game_over_blockstream_mathematical_proof_that_the/
 
-English-to-Spanish translation to Spanish by: [u/bitipedia](https://www.reddit.com/user/bitipedia)
+English-to-Spanish translation by: [u/bitipedia](https://www.reddit.com/user/bitipedia)
 
 Suggestions and improvements are [welcome](https://bitipedia.github.io/en/about/) - especially from people who are native Spanish speakers!
